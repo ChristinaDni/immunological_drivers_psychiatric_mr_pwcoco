@@ -2,16 +2,27 @@
 Code accompanying manuscript: Insights into causal immunological biomarkers for major neuropsychiatric conditions through multi-tissue Mendelian randomization and genetic colocalisation
 
 #Contents:
+
 #1. Extraction of regions for UKB immunological blood pQTLs for subsequent colocalisation analyses
+
 #2. Extraction of regions from the psychiatric outcomes and PWCOCO analyses with UKB pQTL regions
+
 #3. Two-sample MR analyses of UKB immunological blood pQTLs on neuropsychiatric outcomes
+
 #4. Bi-directional MR analyses of psychiatric phenotypes on UKB immunological protein levels
+
 #5. Two-sample MR analyses of BrainQTL immunological brain pQTLs on neuropsychiatric outcomes (note that full data were not available and therefore colocalisation could not be performed)
+
 #6. Extraction of regions for metabrain immunological brain eQTLs for subsequent colocalisation analyses
+
 #7. Extraction of regions from the psychiatric outcomes and PWCOCO analyses with metabrain eQTL regions
+
 #8. Two-sample MR analyses of metabrain immunological brain eQTLs on neuropsychiatric outcomes
+
 #9. Extraction of regions for eqtlgen immunological blood eQTLs for subsequent colocalisation analyses
+
 #10. Extraction of regions from the psychiatric outcomes and PWCOCO analyses with eqtlgen eQTL regions
+
 #11. Two-sample MR analyses of eqtlgen immunological blood eQTLs on neuropsychiatric outcomes
 
 #Files required:
