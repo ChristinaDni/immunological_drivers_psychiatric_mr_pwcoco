@@ -1,0 +1,5 @@
+#File: list_inflammation.txt
+#Synids & dataset name for extraction of protein GWAS included in inflammation panels I & II in UKB PPP
+#File: UKB_panel_base.txt
+#Olink ID, Uniprot ID, HGNC symbol, ENSEMBLID of immunological biomarkers available in UKB PPP
+#This file is useful for data extraction from other QTL datasets (BrainQTL, EQTLGEN, MetaBrain)
