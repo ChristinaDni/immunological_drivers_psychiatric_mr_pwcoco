@@ -1,5 +1,8 @@
 # immunological_drivers_psychiatric_mr_pwcoco
-Code accompanying manuscript: Immunological Drivers and Potential Novel Drug Targets for Major Psychiatric, Neurodevelopmental, and Neurodegenerative Conditions 
+Code accompanying manuscript: Immunological Drivers and Potential Novel Drug Targets for Major Psychiatric, Neurodevelopmental, and Neurodegenerative Conditions
+
+~
+
 Contents:
 1_ genetic instrument and region extraction from ukb data, pwcoco analyses
 2_ two-sample mr analyses using ukb data
