@@ -16,7 +16,7 @@ Contents:
 ~
 
 Data availability:
-Across all analyses published summary-level data were used and no patient identifiable information was included. UKB blood pQTL data can be accessed through the portal: http://ukb-ppp.gwas.eu. deCODE blood pQTL data can be accessed through the platform: https://www.decode.com/summarydata/. Brain pQTL data can be accessed through the https://adknowledgeportal.synapse.org/. Blood eQTL data can be accessed through https://www.eqtlgen.org/phase1.html. Brain cortex eQTL data can be accessed through the MetaBrain platform: https://www.metabrain.nl/. GWAS data on ADHD, autism, anxiety, bipolar disorder, and schizophrenia can be accessed at: https://pgc.unc.edu/for-researchers/download-results/. GWAS data on depression can be accessed at: https://ipsych.dk/en/research/downloads/. GWAS data on Alzheimer’s disease can be accessed at: https://ctg.cncr.nl/software/summary_statistics. 
+Across all analyses published summary-level data were used and no patient identifiable information was included. UKB blood pQTL data can be accessed through the portal: http://ukb-ppp.gwas.eu. Brain pQTL data can be accessed through the https://adknowledgeportal.synapse.org/. Blood eQTL data can be accessed through https://www.eqtlgen.org/phase1.html. Brain cortex eQTL data can be accessed through the MetaBrain platform: https://www.metabrain.nl/. GWAS data on ADHD, autism, anxiety, bipolar disorder, and schizophrenia can be accessed at: https://pgc.unc.edu/for-researchers/download-results/. GWAS data on depression can be accessed at: https://ipsych.dk/en/research/downloads/. GWAS data on Alzheimer’s disease can be accessed at: https://ctg.cncr.nl/software/summary_statistics. 
 
 ~
 
